@@ -1,0 +1,24 @@
+{
+ "seq": 1,
+ "legal": [],
+ "std": [],
+ "stdReplaced": {},
+ "notices": [
+  {
+   "id": "N-2026-11-09-chao",
+   "date": "2026-11-09",
+   "level": "info",
+   "title": "Chào mừng quý vị đến với QLCL Công trình",
+   "body": "Từ phiên bản 1.6.0, phần mềm tự nhận thông báo phiên bản mới, văn bản pháp lý và tiêu chuẩn mới ngay khi tác giả phát hành – không cần cài lại.\nMọi góp ý xin gửi qua nút 💬 Góp ý. Xin trân trọng cảm ơn!"
+  }
+ ],
+ "changelog": [
+  {
+   "seq": 1,
+   "date": "2026-11-09",
+   "text": "Khởi tạo kênh cập nhật trực tuyến văn bản pháp lý, tiêu chuẩn và thông báo."
+  }
+ ],
+ "date": "2026-11-09",
+ "sig": "kzKXbSK2h8zaUpiovr+CKgZrwKJ8q5BTWmQcnu0aSz2TqjVh7zvGR/KKbgVXBbiBqV0c9pH5dvHB+er/9aXpDQ=="
+}
